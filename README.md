@@ -41,5 +41,3 @@
 <img src="./img/fig1.jpg" width="70%">   
 <img src="./img/fig2.jpg" width="70%">
 <img src="./img/fig3.jpg" width="70%">
-
-
